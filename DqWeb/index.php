@@ -1,7 +1,7 @@
 <?php
 define('WEB_ROOT',dirname(__FILE__));
 include_once dirname(__FILE__).'/../DqLoader.php';
-
+include WEB_ROOT.'/httpauth.php';
 require WEB_ROOT.'/libs/Smarty.class.php';
 
 ini_set('display_errors','off');

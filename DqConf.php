@@ -25,7 +25,10 @@ class DqConf{
     static $socket_select_timeout=1;
     /*消息的最大长度*/
     static $msg_max_size=4096;
+	//http默认端口
     static $http_port=8088;
+	//http basic 认证用户名和密码，格式如 [username => password]
+	static $http_users = ["admin" => "yz123456"];
 
     static $max_connection=2000;
     static $redis_ping_interval=100;
