@@ -1,0 +1,6 @@
+[2019-09-27 15:20:48]p_name=管理员: c:\windows\system32\cmd.exe - php  demo.php empty server list
+[2019-09-27 15:20:48]p_name=管理员: c:\windows\system32\cmd.exe - php  demo.php empty server list
+[2019-09-27 15:21:29]p_name=管理员: c:\windows\system32\cmd.exe - php  demo.php empty server list
+[2019-09-27 15:21:29]p_name=管理员: c:\windows\system32\cmd.exe - php  demo.php empty server list
+[2019-09-27 15:22:02]p_name=管理员: c:\windows\system32\cmd.exe - php  demo.php empty server list
+[2019-09-27 15:22:02]p_name=管理员: c:\windows\system32\cmd.exe - php  demo.php empty server list

@@ -5,10 +5,10 @@ class DqConf{
      * 数据库配置
      */
     static $db=array(
-        'host'=>'127.0.0.1',
-        'port'=>'3306',
-        'user'=>'user',
-        'password'=>'xx',   
+        'host'=>'192.168.0.20',
+        'port'=>'3311',
+        'user'=>'root',
+        'password'=>'Duron**(',   
         'database'=>'dq',
     );
 
@@ -35,7 +35,7 @@ class DqConf{
     /**
      * 日志路径
      */
-    static $logPath='/data1/www/logs/dq/';
+    static $logPath='E:/github-project/php-delayqueue/logs/';
 
     /**
      *进程名称不能包含空格
@@ -60,7 +60,7 @@ class DqConf{
     /**
      * php bin文件路径
      */
-    static $phpBin='/usr/local/bin/php';
+    static $phpBin='php';
 
 
     //队列优先级设置

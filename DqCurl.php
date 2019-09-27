@@ -184,6 +184,8 @@ class DqCurl {
     public function send() {
         $this->curl_init();
         $content = curl_exec($this->ch);
+		$error = curl_error ($this->ch);
+		if($error) DqLog::writeLog("cul_error:$error",DqLog::LOG_TYPE_EXCEPTION);
         if (curl_errno($this->ch) === 0) {
             $rtn = true;
             $this->set_response_state(true, "", curl_errno($this->ch));

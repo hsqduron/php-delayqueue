@@ -1,0 +1,27 @@
+[2019-09-27 15:20:48]p_name=ç®¡ç†å‘˜: c:\windows\system32\cmd.exe - php  demo.php 
+file:E:\github-project\php-delayqueue\DqClient.php line:47 socket_create error:ÓÉÓÚÄ¿±ê¼ÆËã»ú»ı¼«¾Ü¾ø£¬ÎŞ·¨Á¬½Ó¡£
+
+[2019-09-27 15:20:48]p_name=ç®¡ç†å‘˜: c:\windows\system32\cmd.exe - php  demo.php 
+file:E:\github-project\php-delayqueue\DqClient.php line:76  connect server faild
+[2019-09-27 15:20:48]p_name=ç®¡ç†å‘˜: c:\windows\system32\cmd.exe - php  demo.php 
+file:E:\github-project\php-delayqueue\DqClient.php line:118  connect server faild
+[2019-09-27 15:20:48]p_name=ç®¡ç†å‘˜: c:\windows\system32\cmd.exe - php  demo.php 
+file:E:\github-project\php-delayqueue\DqClient.php line:97  connect server faild
+[2019-09-27 15:21:29]p_name=ç®¡ç†å‘˜: c:\windows\system32\cmd.exe - php  demo.php 
+file:E:\github-project\php-delayqueue\DqClient.php line:47 socket_create error:ÓÉÓÚÄ¿±ê¼ÆËã»ú»ı¼«¾Ü¾ø£¬ÎŞ·¨Á¬½Ó¡£
+
+[2019-09-27 15:21:29]p_name=ç®¡ç†å‘˜: c:\windows\system32\cmd.exe - php  demo.php 
+file:E:\github-project\php-delayqueue\DqClient.php line:76  connect server faild
+[2019-09-27 15:21:29]p_name=ç®¡ç†å‘˜: c:\windows\system32\cmd.exe - php  demo.php 
+file:E:\github-project\php-delayqueue\DqClient.php line:118  connect server faild
+[2019-09-27 15:21:29]p_name=ç®¡ç†å‘˜: c:\windows\system32\cmd.exe - php  demo.php 
+file:E:\github-project\php-delayqueue\DqClient.php line:97  connect server faild
+[2019-09-27 15:22:02]p_name=ç®¡ç†å‘˜: c:\windows\system32\cmd.exe - php  demo.php 
+file:E:\github-project\php-delayqueue\DqClient.php line:47 socket_create error:ÓÉÓÚÄ¿±ê¼ÆËã»ú»ı¼«¾Ü¾ø£¬ÎŞ·¨Á¬½Ó¡£
+
+[2019-09-27 15:22:02]p_name=ç®¡ç†å‘˜: c:\windows\system32\cmd.exe - php  demo.php 
+file:E:\github-project\php-delayqueue\DqClient.php line:76  connect server faild
+[2019-09-27 15:22:02]p_name=ç®¡ç†å‘˜: c:\windows\system32\cmd.exe - php  demo.php 
+file:E:\github-project\php-delayqueue\DqClient.php line:118  connect server faild
+[2019-09-27 15:22:02]p_name=ç®¡ç†å‘˜: c:\windows\system32\cmd.exe - php  demo.php 
+file:E:\github-project\php-delayqueue\DqClient.php line:97  connect server faild

@@ -4,14 +4,14 @@ date_default_timezone_set("PRC");
 
 //server列表
 $server=array(
-    '127.0.0.1:6789',
+    '192.168.1.200:6879',
     //'127.0.0.1:6788',
 );
 
 $dqClient = new DqClient();
 $dqClient->addServer($server);
 
-$topic ='order_openvip_checker'; //topic在后台注册
+$topic ='test'; //topic在后台注册
 $id = uniqid();
 $data=array(
     'id'=>$id,
@@ -37,9 +37,9 @@ $result = $dqClient->get($topic, $id);
 echo 'get耗时:'.(msectime() - $time)."ms\n";
 
 //删除
-$time = msectime();
-$boolRet = $dqClient->del($topic,$id);
-echo 'del耗时:'.(msectime() - $time)."ms\n";
+//$time = msectime();
+//$boolRet = $dqClient->del($topic,$id);
+//echo 'del耗时:'.(msectime() - $time)."ms\n";
 
 
 
